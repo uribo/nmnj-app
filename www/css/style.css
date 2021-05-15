@@ -1,0 +1,44 @@
+/* CSS */
+body {
+  background-color: #f8f8f8;
+  font-size: 16px;
+}
+
+h2 {
+  font-family: 'Sigmar One', cursive;
+}
+
+.shiny-text-output {
+  color: xx-large;
+  font-size: large;
+  font-family: 'Sriracha', cursive;
+}
+/*
+.btn-primary {
+    color: #fff;
+    background-color: #66C2B9;
+    border-color: #97c1bd;
+}
+*/
+
+.sp_opts {
+  font-size: x-large;
+  font-style: italic;
+}
+
+footer {
+  font-size: 12px;
+}
+
+.navbar-start {
+  justify-content: flex-start;
+  margin-right:auto
+  text-align: left;
+  float: left;
+}
+
+.navbar-end {
+  justify-content: flex-end;
+  margin-left: auto;
+  text-align: right;
+}
